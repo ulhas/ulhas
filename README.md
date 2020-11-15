@@ -1,1 +1,1 @@
-![Banner](./image.png) "Ulhas's Youtube Banner"
+![Banner](./image.png)
